@@ -1,7 +1,7 @@
 <?php
     $host = 'localhost';
-    $user = 'root';
-    $password = '';
+    $user = '####';
+    $password = '####';
     $dbname = 'a4rbookstore';
 
     // $host = 'sql101.epizy.com';
